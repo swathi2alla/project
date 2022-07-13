@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is edited by private branch
 
+=======
+this is code written by master branch
+
+master branch merge with private
+>>>>>>> master
